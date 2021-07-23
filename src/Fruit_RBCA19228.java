@@ -7,4 +7,9 @@ public class Fruit_RBCA19228 {
 	{
 	this.color=color;
 	}
+	
+	String get_color()
+	{
+	return color;
+	}
 }
